@@ -1,5 +1,5 @@
 ﻿//===================
-// Full-stack dasturchi (bo'lishini xoxlaganlar uchun)
+// Full-stack dasturchi (bo'lishini xoxlaganlar uchun).
 // Dot-net
 //===================
 
